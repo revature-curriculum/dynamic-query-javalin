@@ -1,0 +1,6 @@
+# javalin-jte-example
+
+Replit run command (.replit)
+
+language = "java10"
+run = "mvn clean compile assembly:single && java -jar target/javalin-jte-example-1.0-SNAPSHOT-jar-with-dependencies.jar"
