@@ -10,6 +10,6 @@ In this lab, we will cover using query parameters to dynamically display somethi
 ---
 ### Sample Output
 ```java
-"Harry Potter and the Order of the Phoenix"
+"My favorite book is Harry Potter and the Order of the Phoenix"
 ```
 ---

@@ -9,9 +9,9 @@ public class Main {
         
         app.get("/", ctx -> ctx.result("Hello World!"));
 
-        app.get("/dynamicQuery", ctx -> {
+        app.get("/welcome", ctx -> {
             String name = ctx.queryParam("name");
-            ctx.result(name);
+            ctx.result("welcome " + name);
         });
 
     }
