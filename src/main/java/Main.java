@@ -11,7 +11,7 @@ public class Main {
 
         app.get("/welcome", ctx -> {
             String name = ctx.queryParam("name");
-            ctx.result("welcome " + name);
+            ctx.result("Welcome " + name);
         });
 
     }
