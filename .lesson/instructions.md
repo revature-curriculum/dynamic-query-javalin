@@ -1,4 +1,4 @@
-## Javalin Dynamic Query Challenge this is instructionsmd
+## Javalin Dynamic Query Challenge
 ---
 ### Description
 In this lab, we will cover using query parameters to dynamically display something on your webpage.
