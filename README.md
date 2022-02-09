@@ -6,7 +6,8 @@ In this lab, we will cover using query parameters to dynamically display somethi
 ---
 ### Steps
 1. In src -> main -> java -> Main.java, add a "/favoriteBook" route.
-2. Use a dynamic query (look at lesson example) to display the name of your favorite book in the web browser in the new route you created.
+2. In this route add the required code to take in input from the url using dynamic query. This input will be the name of your favorite book. Use the lesson example as reference.
+3. To the route add an appropriate print out that will use the input from dynamic query.
 ---
 ### Sample Output
 ```java
